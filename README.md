@@ -40,7 +40,4 @@ The 9th grade overall results for math and reading score saw the most marked adj
 Scores and percentages at the school spending levels, school size levels, and school type levels did not show any change at the requested accuracy levels. 
 
 ## Summary
-The change in results at the district level were minimal, which would lead me to believe that the suspected tampering of reading and math scores for Thomas High School did not impact results in a meaningful way. 
-
-
-
+The change in results at the district level were minimal, which would lead me to believe that the suspected tampering of reading and math scores for Thomas High School did not impact results in a meaningful way. Even the results for Thomas High School itself saw less than a tenth of a point change and Thomas High School still remained the second highest school according to the overall passing percentage. The adjusted data didn't even make an impact at the school spending, school size, or school type levels because the change in scores and percentages were less than a tenth of a point or percentage point. Therefore the results reported to the tenth for scores and whole numbers for passing percentages, showed no change.
